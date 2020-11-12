@@ -1,0 +1,67 @@
+.Weather{
+    background-color: #fff;
+}
+.button {
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.highligts h1{
+   text-align: center;
+}
+.highlightsList{
+   display: block;   
+}
+.highlightItem{
+    display: block;
+    float:left;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.highlightItem .spacer{    
+    background-origin: content-box;
+    background-color: rgb(215, 255, 252);
+    border-radius: 15px;
+}
+.highlightItem .city{
+   display: block;
+   margin:5px;
+}
+.highlightItem .weather{
+    margin:5px;
+ }
+ .weatherItem{
+    display: flow-root;
+    float:left;
+    margin-bottom: 20px;
+}
+.weatherItem .spacer{    
+    background-origin: content-box;
+    background-color: rgb(215, 255, 252);
+    border-radius: 15px;
+}
+.allcities{
+    display: flow-root;
+}
+.allcities h1{
+    text-align: center;
+}
+.sorting{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.weatherItemInfo{
+    text-align: center;
+}
+.weatherItemInfo .city{
+    font-size: 20px;
+}
+.weatherItemInfo .temp{
+    font-size: 16px;
+}
+.weatherItemInfo .description{
+    font-size: 10px;
+}
+.commentInput{
+    font-size: 10px;
+}
