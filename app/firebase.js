@@ -1,6 +1,7 @@
 import firebase from 'firebase';
 
-const config = {
+  const config = {
+    // THIS IS ONLY FOR USE BY EMIL A. ROTZLER
     // DO NOT USE THESE CREDENTIALS !
     apiKey: "AIzaSyDwAMGj20rH42FROMjb5aq_9JhQatrhumQ",
     authDomain: "weatherapp-de148.firebaseapp.com",
